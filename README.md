@@ -1,2 +1,2 @@
 # banking-program-java
-A Java program to create a banking application.
+This program creates a banking application that allows users to make deposits and withdrawals, calculate their balance and interest earned, and save and display customer records. The program has a main menu with two options for the user: a bank manager or a bank customer. The bank manager has access to a feature that allows him or her to enter customer information (ID, name, and email address) into a text file. The bank customer can access features that allow them to make deposits and withdrawals and view their balance and interest earned.
